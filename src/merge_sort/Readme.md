@@ -1,0 +1,1 @@
+Count the number of inversions in an array. Uses the MergeSort algorithm modified for counting inversions.
